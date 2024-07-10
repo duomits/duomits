@@ -1,6 +1,6 @@
 <img src="images/banner.png" alt="banner" width="100%">
 
-Previously a Cloud Solutions Architect, currently working in the Autonomous Vehicle Industry. I am motivated by the power of technology to connect people to what they love. Currently working on projects related to music and media.
+Technical Program Manager / Cloud Solutions Architect / Web Developer. I am motivated by the power of technology to connect people to what they love. Currently working on projects related to music and media.
 
 See [my website](https://www.erichsabo.com) for more information!
 
